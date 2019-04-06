@@ -17,6 +17,23 @@ public class cyberchrome;
 	//Cyberchrome repaired Extensions
 	//Cyberchrome repaired tabs
 	//Cyberchrome repaired Usage
+	//Cyberchrome repaired Flash Player
+	//Cyberchrome repaired WebGL
+	//Cyberchrome repaired HTML5
+	//Cyberchrome repaired HTML4
+	//Cyberchrome repaired settings
+	//Cyberchrome repaired connection
+	//Cyberchrome repaired speed
+	//Cyberchrome repaired ping
+	//Cyberchrome fixed and repaired botnet
+    //Cyberchrome fixed and repaired ddos attacks
+	//Cyberchrome fixed and repaired DSL
+	//Cyberchrome fixed and repaired https
+	//Cyberchrome fixed and repaired http
+	//Cyberchrome fixed and repaired sites
 }
+
+
+
 
 
