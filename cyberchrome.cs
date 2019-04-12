@@ -35,7 +35,9 @@ public class cyberchrome;
 	//Cyberchrome repaired loading sites
 	//Cyberchrome repaired sites performance
 	//Cyberchrome repaired sites optimization
+	//Filename random directory = @"chrome.exe"
 }
+
 
 
 
