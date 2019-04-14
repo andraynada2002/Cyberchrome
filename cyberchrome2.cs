@@ -75,3 +75,18 @@ namespace loadreload();
 	void load();
 }
 
+//Cyberchrome post-production repaired
+namespace cyber6();
+{
+	void cyberchrome();
+	void postproduction();
+	void repair();
+}
+
+//Cyberchrome repaired webgl
+namespace cyber7();
+{
+	void cyberchrome();
+	void webgl();
+	void repair();
+}
