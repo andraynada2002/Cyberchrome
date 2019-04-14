@@ -90,3 +90,20 @@ namespace cyber7();
 	void webgl();
 	void repair();
 }
+
+//Cyberchrome core optimized
+//Cyberchrome shell optimized
+//Cyberchrome core repaired
+//Cyberchrome shell repaired
+//Cyberchrome core hight performance
+//Cyberchrome shell hight performance
+namespace cyber8();
+{
+	void cyberchrome();
+	void shell();
+	void core();
+	void performance();
+	void repair();
+	void optimized();
+}
+
